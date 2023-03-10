@@ -1,6 +1,6 @@
 <h1 align="center">Carrossel - The Last os Us </h1>
 
-<p align="center">Projeto feito seguindo o evento online do Devemdobro, a semana do zero ao programador contratado. Trata-se de um projeto Font-end, como o nome diz, desenvolvemos um carrossel no tema da séria The Last of Us. </p>
+<p align="center">Projeto feito seguindo o evento online do Devemdobro. Trata-se de um projeto Font-end, como o nome diz, desenvolvemos um carrossel no tema da séria The Last of Us. </p>
 
 <h1 align="center">
     <a href="#">🔗 Colocar o link do site aqui</a>
